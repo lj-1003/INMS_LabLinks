@@ -3,116 +3,116 @@
         {
             "title": "Glowforge",
             "url": "https://app.glowforge.com/",
-            "image": "../icons/glowforge.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/glowforge.png"
         },
         {
             "title": "Lab Cameras",
             "url": "https://192.168.55.118/protect/dashboard/all",
-            "image": "../icons/camera.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks//icons/camera.png"
         },
          {
             "title": "Prusa MK4",
             "url": "http://192.168.157.101",
-            "image": "../icons/prusa.webp"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/prusa.webp"
         },
          {
             "title": "Prusa MK4S",
             "url": "http://192.168.157.100",
-            "image": "../icons/prusa.webp"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/prusa.webp"
         }
     ],
     "tools" : [
         {
             "title": "ChatGPT",
             "url": "https://chatgpt.com/",
-            "image": "../icons/chatgpt.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/chatgpt.png"
         },
          {
             "title": "MidJourney",
             "url": "https://www.midjourney.com/home",
-            "image": "../icons/midjourney.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/midjourney.png"
         },
         {
             "title": "Speechify",
             "url": "https://studio.speechify.com/",
-            "image": "../icons/speechify.webp"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/speechify.webp"
         },
         {
             "title": "Google Drive",
             "url": "https://drive.google.com/",
-            "image": "../icons/gdrive.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/gdrive.png"
         },
         {
             "title": "OneDrive",
             "url": "https://mailfhsu-my.sharepoint.com/",
-            "image": "../icons/onedrive.webp"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/onedrive.webp"
         },
         {
             "title": "MS Office",
             "url": "https://m365.cloud.microsoft/create/",
-            "image": "../icons/office.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/office.png"
         },
         {
             "title": "Outlook",
             "url": "https://outlook.office.com/mail/",
-            "image": "../icons/outlook.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/outlook.png"
         },
         {
             "title": "MS Teams",
             "url": "https://teams.cloud.microsoft/",
-            "image": "../icons/teams.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/teams.png"
         },
         {
             "title": "Copilot",
             "url": "https://copilot.microsoft.com/",
-            "image": "../icons/microslop.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/microslop.png"
         },
         {
             "title": "Adobe",
             "url": "https://www.adobe.com/",
-            "image": "../icons/adobe.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/adobe.png"
         },
         {
             "title": "Zoom",
             "url": "https://www.zoom.com/",
-            "image": "../icons/zoom.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/zoom.png"
         }
     ],
     "student" : [
         {
             "title": "Workday",
             "url": "https://wd503.myworkday.com/fhsu/d/home.htmld",
-            "image": "../icons/workday.jpg"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/workday.jpg"
         },
         {
             "title": "Blackboard",
             "url": "https://blackboard.fhsu.edu/",
-            "image": "../icons/blackboard.jpg"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/blackboard.jpg"
         },
         {
             "title": "FHSU",
             "url": "https://www.fhsu.edu/",
-            "image": "../icons/tiger.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/tiger.png"
         },
         {
             "title": "INMS",
             "url": "https://www.fhsu.edu/newmedia/",
-            "image": "../icons/tiger.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/tiger.png"
         },
         {
             "title": "RCOBE",
             "url": "https://www.fhsu.edu/cob/",
-            "image": "../icons/tiger.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/tiger.png"
         },
         {
             "title": "Informatics",
             "url": "https://www.fhsu.edu/informatics/",
-            "image": "../icons/tiger.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/tiger.png"
         },
         {
             "title": "Tiger Tech",
             "url": "https://www.fhsu.edu/tigertech/",
-            "image": "../icons/tiger.png"
+            "image": "https://lj-1003.github.io/INMS_LabLinks/icons/tiger.png"
         }
     ]
 }
